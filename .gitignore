@@ -1,0 +1,6 @@
+*.log
+package/
+*.tgz
+*.tgz*
+*.json
+
